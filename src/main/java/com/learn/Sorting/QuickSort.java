@@ -20,7 +20,7 @@ public class QuickSort {
      * @return
      */
     public static int partition(int []arr,int l,int r){
-        int less = l-1;
+        /*int less = l-1;
         int more = r;//默认用最后一个元素作为key
         while (l < more) {
             if (arr[l] <= arr[r]) {
@@ -32,6 +32,18 @@ public class QuickSort {
             }
         }
         swap(arr, more, r);
+        return more;*/
+        int aim = arr[r];
+        int less = l;
+        int more = r;
+        while(less<more){
+            if(arr[less]<aim){
+                less++;
+            }else{
+                swap(arr,less,--more);
+            }
+        }
+        swap(arr,more,r);
         return more;
     }
 

@@ -8,6 +8,13 @@ package com.learn;
  */
 public class RemoveKContiunsZeros {
     //去掉连续出现k个0的字符
+
+    /**
+     * 去掉s中的k个连0
+     * @param s
+     * @param k
+     * @return
+     */
     public static String removeKZero(String s, int k) {
         if (s == null || s.length() == 0 || k < 1) {
             return s;
@@ -38,6 +45,13 @@ public class RemoveKContiunsZeros {
         return new String(c);
     }
 
+    public static String RemoveKZeros2(String s, int k) {
+        if (s.length() <= k && s.charAt(0) != '0') {
+            return s;
+        }
+        return s;//待续。。。。。。
+
+    }
     public static void main(String[] args) {
         String s = "A00B0000C00D0000D";
         System.out.println(removeKZero(s,2));

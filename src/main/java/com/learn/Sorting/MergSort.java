@@ -6,45 +6,27 @@ public class MergSort {
 
     public static void merge(int[] arr, int l, int mid, int r) {
        //准备辅助数组
-        int n1 = mid - l + 1;
-        int n2 = r - mid;
-        int[] la = new int[n1];
-        int[] ra = new int[n2];
-        //拷贝
-        for (int i = 0, k = l; i < n1; i++, k++) {
-            la[i] = arr[k];
+        int[] help = new int[r - l + 1];
+        int k=0;
+        int p1 = l;
+        int p2 = mid + 1;
+        while (p1 <= mid && p2 <= r) {
+            help[k++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
         }
-        for (int i = 0, k = mid + 1; i < n2; i++, k++) {
-            ra[i] = arr[k];
+        while (p1 <= mid) {
+            help[k++] = arr[p1++];
         }
-        //合并
-        int i;
-        int j;
-        int k;
-        for (k = l, i = 0, j = 0; i < n1 && j < n2; k++) {
-            if (la[i] > ra[j]) {
-                arr[k] = ra[j];
-                j++;
-            }else{
-                arr[k] = la[i];
-                i++;
-            }
-
+        while (p2 <= r) {
+            help[k++] = arr[p2++];
         }
-        if (i < n1) {
-            for (j = i; j < n1; j++) {
-                arr[k++] = la[j];
-            }
-        }
-        if (j < n2) {
-            for (i = j; i < n2; i++) {
-                arr[k++] = ra[i];
-            }
+        //複製回去
+        for (int i = 0; i < help.length; i++) {
+            arr[l + i] = help[i];
         }
     }
     public static void mergeSort(int[] arr, int l, int r) {
         if (l < r) {
-            int mid = (l + r) / 2;
+            int mid = l+((r-l)>>1);
             mergeSort(arr, l, mid);
             mergeSort(arr, mid + 1, r);
             merge(arr, l, mid, r);

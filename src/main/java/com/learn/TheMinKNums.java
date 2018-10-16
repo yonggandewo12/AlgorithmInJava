@@ -53,6 +53,7 @@ public class TheMinKNums {
             }else{
                 break;
             }
+            index = (index - 1) / 2;
         }
     }
 

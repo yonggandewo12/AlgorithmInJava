@@ -1,7 +1,4 @@
 package com.learn;
-
-import java.util.Arrays;
-
 /**
  * Created by Intellij Idea 2018.5
  * Company :SEU
@@ -120,8 +117,8 @@ public class ChangeMoney {
     }
 
     public static void main(String[] args) {
-        int[] arr = {5,2,3};
-        changeMoney(arr,0,0,4);
-        System.out.println(changeDp(arr,20));
+        int[] arr = {3};
+        //changeMoney(arr,0,0,11);
+        System.out.println(changeDp(arr,8));
     }
 }

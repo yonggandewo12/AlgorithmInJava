@@ -1,23 +1,403 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e83231a3-b411-452d-b575-1e69033a254d" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="20958af3-8a57-43fa-a0e3-aac603dee370" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/BalancedNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/CodeReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/CountZeroToNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/FindNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/MakeATriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/MedianOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/NumDivisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/SequenceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/ShiftNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/SuperPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/DifferenceOfPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/GetStringFromDictory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/MaxCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/Mode/SimpleDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/PrimAndComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/Sorting/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/TheLongestPublicContiguousSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/TheSumEqualsAim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/leetcode/CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/leetcode/NPHard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTestProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/ChangeMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/ChangeMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/ConstructorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Mode/SimpleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Mode/SimpleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/RemoveKContiunsZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/RemoveKContiunsZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Shift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Shift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Sorting/MergSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Sorting/MergSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Str1IsMatchingStr2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Str1IsMatchingStr2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/TheLocalMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/CountTheNumberOfAllOneRangesOneTwoN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/TheLongestCommonSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/TheLongestCommonSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/TheMaxSubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/TheMaxSubArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/TheMinKNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/TheMinKNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/code/class_03/Code_05_RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/code/class_03/Code_05_RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/code/class_03/Code_06_PrintMatrixSpiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/code/class_03/Code_06_PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/tree/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/tree/TreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/BracketPairing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/BracketPairing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/ChangeMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/ChangeMoney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CheckPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CheckPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CirclePrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CirclePrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_01_TrieTree$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_01_TrieTree$Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_01_TrieTree$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_01_TrieTree$TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_01_TrieTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_01_TrieTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_03_IPO$MaxProfitComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_03_IPO$MaxProfitComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_03_IPO$MinCostComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_03_IPO$MinCostComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_03_IPO$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_03_IPO$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_03_IPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_03_IPO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_06_BestArrange$Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_06_BestArrange$Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_06_BestArrange$ProgramComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_06_BestArrange$ProgramComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Code_06_BestArrange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Code_06_BestArrange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/ConstructorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test16$Dot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test16$Dot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CodingTest/test9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/CompareTwoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/CompareTwoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/DeleteDupliChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/DeleteDupliChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/DequeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/DequeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/FindLongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/FindLongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/FindSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/FindSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/GetReversWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/GetReversWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/GoUpstairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/GoUpstairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/HightCrazySubMax_163.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/HightCrazySubMax_163.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/IsPowerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/IsPowerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/JumpFloor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/JumpFloor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/LinkedStructer/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/LinkedStructer/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/LinkedStructer/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/LinkedStructer/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/LowestLexicography$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/LowestLexicography$MyComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/LowestLexicography.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/LowestLexicography.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/MaxSubValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/MaxSubValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/MeetingRoomPlanning$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/MeetingRoomPlanning$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/MeetingRoomPlanning$Intervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/MeetingRoomPlanning$Intervals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/MeetingRoomPlanning.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/MeetingRoomPlanning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/MinDistanceOfTwoStringInTheSameStringArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/MinDistanceOfTwoStringInTheSameStringArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/MissMinNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/MissMinNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Mode/SafeSimpleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Mode/SafeSimpleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Mode/SimpleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Mode/SimpleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Mode/StaticSimpleDemo$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Mode/StaticSimpleDemo$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Mode/StaticSimpleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Mode/StaticSimpleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/MonotonicStack$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/MonotonicStack$Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/MonotonicStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/MonotonicStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/NumsInArraySumEqualsK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/NumsInArraySumEqualsK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/PrintAllChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/PrintAllChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/QuqueStructure/ArrayQuque.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/QuqueStructure/ArrayQuque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/RandomPoolTest$RandomPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/RandomPoolTest$RandomPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/RandomPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/RandomPoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/RemoveKContiunsZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/RemoveKContiunsZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/ReplaceStrFromTo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/ReplaceStrFromTo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/ReverseLink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/ReverseLink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/RotatePrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/RotatePrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Shift.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Shift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/ChangeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/ChangeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/MergSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/MergSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/ShortSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/ShortSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Sorting/heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Sorting/heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/ArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/LinkedStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/LinkedStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/NewStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/NewStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/TwoQueuesStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/TwoQueuesStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/TwoStacksQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/StakeStructure/TwoStacksQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/SteppingProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/SteppingProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/Str1IsMatchingStr2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/Str1IsMatchingStr2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheAimSumInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheAimSumInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheArithmeticProgression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheArithmeticProgression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheLocalMinimum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheLongestCommonSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheLongestCommonSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheLongestContinuousSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheLongestContinuousSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMagicNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMagicNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMatrixMinPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMatrixMinPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMaxLenthOfIncrementalSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMaxLenthOfIncrementalSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMaxNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMaxNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMaxSubArraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMaxSubArraySum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMaxSubMatrixWithOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMaxSubMatrixWithOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMaxWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMaxWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMinAbsoluteValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMinAbsoluteValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMinDistanceInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMinDistanceInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMinKNums$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMinKNums$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMinKNums.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMinKNums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMinLengthStr1InStr2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMinLengthStr1InStr2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheMostFrequencyInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheMostFrequencyInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheNumberHappensOnlyOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheNumberHappensOnlyOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheShortestSubarrayWhichNeedToBeSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheShortestSubarrayWhichNeedToBeSorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheSmallSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheSmallSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheSumOfAllNumbersInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheSumOfAllNumbersInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/TheUnformedSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/TheUnformedSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/UnionFindSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/UnionFindSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/WhoIsWin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/WhoIsWin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/WordsCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/WordsCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_01_Array_To_Stack_Queue$ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_01_Array_To_Stack_Queue$ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_01_Array_To_Stack_Queue$ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_01_Array_To_Stack_Queue$ArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_01_Array_To_Stack_Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_01_Array_To_Stack_Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_02_GetMinStack$MyStack1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_02_GetMinStack$MyStack1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_02_GetMinStack$MyStack2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_02_GetMinStack$MyStack2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_02_GetMinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_02_GetMinStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_03_StackAndQueueConvert$TwoQueuesStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_03_StackAndQueueConvert$TwoQueuesStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_03_StackAndQueueConvert$TwoStacksQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_03_StackAndQueueConvert$TwoStacksQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_03_StackAndQueueConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_03_StackAndQueueConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$DogCatQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$DogCatQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$PetEnterQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue$PetEnterQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_04_DogCatQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_05_RotateMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_05_RotateMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_06_PrintMatrixSpiralOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_06_PrintMatrixSpiralOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_07_ReverseList$DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_07_ReverseList$DoubleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_07_ReverseList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_07_ReverseList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_07_ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_07_ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_08_ZigZagPrintMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_08_ZigZagPrintMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_09_FindNumInSortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_09_FindNumInSortedMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_10_PrintCommonPart$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_10_PrintCommonPart$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_10_PrintCommonPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_10_PrintCommonPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_11_IsPalindromeList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_11_IsPalindromeList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_11_IsPalindromeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_11_IsPalindromeList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_12_SmallerEqualBigger$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_12_SmallerEqualBigger$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_12_SmallerEqualBigger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_12_SmallerEqualBigger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_13_CopyListWithRandom$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_13_CopyListWithRandom$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_13_CopyListWithRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_13_CopyListWithRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_14_FindFirstIntersectNode$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_14_FindFirstIntersectNode$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_14_FindFirstIntersectNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_14_FindFirstIntersectNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_15_FindOneLessValueIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_03/Code_15_FindOneLessValueIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_01_PreInPosTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_01_PreInPosTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_01_PreInPosTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_01_PreInPosTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_02_PrintBinaryTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_02_PrintBinaryTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_02_PrintBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_02_PrintBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_03_SuccessorNode$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_03_SuccessorNode$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_03_SuccessorNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_03_SuccessorNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_04_SerializeAndReconstructTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_04_SerializeAndReconstructTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_04_SerializeAndReconstructTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_04_SerializeAndReconstructTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_05_PaperFolding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_05_PaperFolding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_06_IsBalancedTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_06_IsBalancedTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_06_IsBalancedTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_06_IsBalancedTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_07_IsBSTAndCBT$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_07_IsBSTAndCBT$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_07_IsBSTAndCBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_07_IsBSTAndCBT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_08_CompleteTreeNodeNumber$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_08_CompleteTreeNodeNumber$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_08_CompleteTreeNodeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_04/Code_08_CompleteTreeNodeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_01_HashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_01_HashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_02_RandomPool$Pool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_02_RandomPool$Pool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_02_RandomPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_02_RandomPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_03_Islands.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_03_Islands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_04_UnionFind$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_04_UnionFind$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_04_UnionFind$UnionFindSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_04_UnionFind$UnionFindSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_04_UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_05/Code_04_UnionFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_01_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_01_BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_02_DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_02_DFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_03_TopologySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_03_TopologySort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_04_Kruskal$EdgeComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_04_Kruskal$EdgeComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_04_Kruskal$UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_04_Kruskal$UnionFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_04_Kruskal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_04_Kruskal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_05_Prim$EdgeComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_05_Prim$EdgeComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_05_Prim.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_05_Prim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_06_Dijkstra$NodeHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_06_Dijkstra$NodeHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_06_Dijkstra$NodeRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_06_Dijkstra$NodeRecord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_06_Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Code_06_Dijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/GraphGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/GraphGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_06/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_01_TrieTree$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_01_TrieTree$Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_01_TrieTree$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_01_TrieTree$TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_01_TrieTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_01_TrieTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_02_Less_Money$MaxheapComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_02_Less_Money$MaxheapComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_02_Less_Money$MinheapComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_02_Less_Money$MinheapComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_02_Less_Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_02_Less_Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_03_IPO$MaxProfitComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_03_IPO$MaxProfitComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_03_IPO$MinCostComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_03_IPO$MinCostComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_03_IPO$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_03_IPO$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_03_IPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_03_IPO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_04_MadianQuick$MaxHeapComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_04_MadianQuick$MaxHeapComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_04_MadianQuick$MedianHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_04_MadianQuick$MedianHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_04_MadianQuick$MinHeapComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_04_MadianQuick$MinHeapComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_04_MadianQuick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_04_MadianQuick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_05_LowestLexicography$MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_05_LowestLexicography$MyComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_05_LowestLexicography.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_05_LowestLexicography.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_06_BestArrange$Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_06_BestArrange$Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_06_BestArrange$ProgramComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_06_BestArrange$ProgramComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_06_BestArrange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_07/Code_06_BestArrange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_01_Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_01_Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_02_Hanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_02_Hanoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_03_Print_All_Subsquences.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_03_Print_All_Subsquences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_04_Print_All_Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_04_Print_All_Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_05_Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_05_Cow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_06_ReverseStackUsingRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_06_ReverseStackUsingRecursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_07_MinPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_07_MinPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_08_Money_Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_08_Money_Problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_09_Knapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Code_09_Knapsack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/FaceBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/FaceBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/code/class_08/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/getLIL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/getLIL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/leetcode/AddTwoNumbers$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/leetcode/AddTwoNumbers$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/leetcode/AddTwoNumbers$LongestSubstringWithoutRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/leetcode/AddTwoNumbers$LongestSubstringWithoutRepeating.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/leetcode/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/leetcode/AddTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/leetcode/FindMedianSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/leetcode/FindMedianSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/leetcode/LonggestSubstringWithoutRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/leetcode/LonggestSubstringWithoutRepeating.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/leetcode/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/leetcode/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/leetcode/StringToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/leetcode/StringToInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/leetcode/ZigzagPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/leetcode/ZigzagPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/tree/PostFromPre_In$Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/tree/PostFromPre_In$Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/tree/PostFromPre_In.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/tree/PostFromPre_In.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/tree/TreeTest$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/tree/TreeTest$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/tree/TreeTest$ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/tree/TreeTest$ReturnData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/tree/TreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/tree/TreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/XiaoMiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/XiaoMiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/migong.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/migong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/q1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/q3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/seu/test9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/seu/test9.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1754166914">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6476" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6475" />
+          <entry key="RegExp" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CompareTwoString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CompareTwoString.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test65.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="178">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test64.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -31,60 +411,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/HightCrazySubMax_163.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/leetcode/StringToInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheMaxWater.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/MonotonicStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/leetcode/ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test8.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test9.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/JumpFloor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TwoArraySumTopK.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheAimSumInArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/MaxSubValue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/SteppingProblem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheLongestSubString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheUnformedSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheMagicNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/GoUpstairs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/DequeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheMatrixMinPath.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheMaxLenthOfIncrementalSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/ChangeMoney.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheLongestCommonSubString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheLongestContinuousSubArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheSumOfAllNumbersInString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/KMP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/DeleteKContiunsZeros.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/RemoveKContiunsZeros.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/ReplaceStrFromTo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/MinDistanceOfTwoStringInTheSameStringArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test12.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheMinLengthStr1InStr2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/BracketPairing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/FindLongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/Str1IsMatchingStr2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheShortestSubarrayWhichNeedToBeSorted.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/getLIL.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/NumsInArraySumEqualsK.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheLocalMinimum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test14.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/MissMinNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/TheMinKNums.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test13.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/ConstructorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test15.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test17.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test16.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test18.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/testtest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test63.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/CodeReview.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test65.java" />
       </list>
     </option>
   </component>
@@ -94,41 +431,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\Installing\Java\tools\apache-maven-3.5.4\repository" />
-        <option name="mavenHome" value="D:/Installing/Java/tools/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="D:\Installing\Java\tools\apache-maven-3.5.4\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="JavaTestProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="1.8" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="19" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
     <option name="width" value="1346" />
-    <option name="height" value="698" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -188,40 +498,25 @@
               <item name="learn" type="462c0819:PsiDirectoryNode" />
               <item name="CodingTest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaTestProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="JavaTestProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="p&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyIntellji" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539180022121" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.learn.CodingTest" />
-      <recent name="com.learn" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\JavaTestProject\src\main\java\com\learn\code" />
-      <recent name="D:\Projects\JavaTestProject\src\main\java\com\learn" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -236,124 +531,140 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test18">
-    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.ConstructorTest" />
+  <component name="RunManager" selected="Application.test65">
+    <configuration name="test62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.test62" />
       <module name="JavaTestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.CodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="test15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.test15" />
+    <configuration name="test63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.test63" />
       <module name="JavaTestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.CodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="test16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.test16" />
+    <configuration name="test64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.test64" />
       <module name="JavaTestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.CodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="test17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.test17" />
+    <configuration name="test65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.test65" />
       <module name="JavaTestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.CodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="test18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.test18" />
+    <configuration name="testtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.CodingTest.testtest" />
       <module name="JavaTestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.CodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConstructorTest" />
-      <item itemvalue="Application.test15" />
-      <item itemvalue="Application.test18" />
-      <item itemvalue="Application.test16" />
-      <item itemvalue="Application.test17" />
+      <item itemvalue="Application.test63" />
+      <item itemvalue="Application.test62" />
+      <item itemvalue="Application.testtest" />
+      <item itemvalue="Application.test64" />
+      <item itemvalue="Application.test65" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test18" />
-        <item itemvalue="Application.test16" />
-        <item itemvalue="Application.test17" />
-        <item itemvalue="Application.test15" />
-        <item itemvalue="Application.ConstructorTest" />
+        <item itemvalue="Application.test65" />
+        <item itemvalue="Application.test64" />
+        <item itemvalue="Application.test63" />
+        <item itemvalue="Application.test62" />
+        <item itemvalue="Application.testtest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20958af3-8a57-43fa-a0e3-aac603dee370" name="Default Changelist" comment="" />
+      <created>1538989077173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538989077173</updated>
+      <workItem from="1538989078656" duration="9354000" />
+      <workItem from="1539064526278" duration="16797000" />
+      <workItem from="1539607213918" duration="1986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28137000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990755" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3297546" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29907975" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28214827" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39723927" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32973805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297546" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20858896" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297546" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398773" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297546" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -363,456 +674,115 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="57" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test63.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test63.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test63.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test63.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="isflag" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/JumpFloor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/GetReversWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/SteppingProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheMatrixMinPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test10.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/leetcode/ZigzagPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheLongestContinuousSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheLongestCommonSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheMaxLenthOfIncrementalSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/ChangeMoney.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="95" column="18" lean-forward="true" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-629">
-          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheSumOfAllNumbersInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/leetcode/LonggestSubstringWithoutRepeating.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/LowestLexicography.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/ReplaceStrFromTo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/MinDistanceOfTwoStringInTheSameStringArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/RemoveKContiunsZeros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/Shift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheMinLengthStr1InStr2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/FindLongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/BracketPairing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/Str1IsMatchingStr2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2236">
-          <caret line="86" column="45" selection-start-line="86" selection-start-column="45" selection-end-line="86" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/Sorting/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/Sorting/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/Sorting/heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheShortestSubarrayWhichNeedToBeSorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="33" column="79" selection-start-line="33" selection-start-column="79" selection-end-line="33" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/getLIL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/NumsInArraySumEqualsK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheSmallSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheMinDistanceInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheLocalMinimum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="230">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/MissMinNum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheMaxSubArraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324">
-          <caret line="109" column="23" lean-forward="true" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/ConstructorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="39" />
-          <folding>
-            <element signature="e#1953#1954#0" expanded="true" />
-            <element signature="e#1980#1981#0" expanded="true" />
-            <element signature="e#2017#2018#0" expanded="true" />
-            <element signature="e#2046#2047#0" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2101#2102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/TheMinKNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2267#2291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="44" lean-forward="true" selection-start-line="2" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-546">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-213">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
+        <state relative-caret-position="230">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test9.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/testtest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="345">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CompareTwoString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test61.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="-1101">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/CodeReview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1167">
+          <caret line="169" column="1" lean-forward="true" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1801#1802#0" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#2280#2281#0" expanded="true" />
+            <element signature="e#2310#2311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/CodingTest/test64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

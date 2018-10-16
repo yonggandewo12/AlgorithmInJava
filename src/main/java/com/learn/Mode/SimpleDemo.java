@@ -8,9 +8,11 @@ package com.learn.Mode;
  */
 public class SimpleDemo {
     //设计模式-单例  这是线程不安全的单例模式
-    private SimpleDemo() {
 
-    }
+    /**
+     * 總是加锁，影响效率
+     */
+    private SimpleDemo() {};
 
     private static SimpleDemo simpleDemo;
 
@@ -20,5 +22,6 @@ public class SimpleDemo {
         }
         return simpleDemo;
     }
+
 
 }

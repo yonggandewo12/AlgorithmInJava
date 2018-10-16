@@ -17,7 +17,7 @@ public class TreeTest {
      * 向树中插入任意元素
      * @param data 插入元素
      */
-    public void insert(int data) {
+    public static void insert(int data) {
         Node newNode = new Node(data);
         if (head == null) {
             head = newNode;
@@ -52,7 +52,7 @@ public class TreeTest {
      * 树的先序遍历 递归
      * @param head
      */
-    public void preOrder1(Node head) {
+    public static void preOrder1(Node head) {
         if (head != null) {
             System.out.println(head.obj + " ");
             preOrder1(head.left);
@@ -64,7 +64,7 @@ public class TreeTest {
      * 树的先序遍历  非递归
      * @param head
      */
-    public void preOrder2(Node head) {
+    public static void preOrder2(Node head) {
         if (head != null) {
             ArrayDeque stack = new ArrayDeque<Node>();
             //压入头结点
@@ -88,7 +88,7 @@ public class TreeTest {
      * 树的中序遍历  递归法
      * @param node
      */
-    public void inOrder1(Node node) {
+    public static void inOrder1(Node node) {
         if (head != null) {
             preOrder1(head.left);
             System.out.println(head.obj + " ");
@@ -100,7 +100,7 @@ public class TreeTest {
      * 树的中序遍历 非递归法
      * @param head
      */
-    public void inOrder2(Node head) {
+    public static void inOrder2(Node head) {
         //先全部压左，无左，存入右
         if (head != null) {
             ArrayDeque stack = new ArrayDeque<Node>();
@@ -123,7 +123,7 @@ public class TreeTest {
      * 树的后序遍历 递归法
      * @param head
      */
-    public void postOrder1(Node head) {
+    public static void postOrder1(Node head) {
         if (head != null) {
             preOrder1(head.left);
             preOrder1(head.right);
@@ -135,7 +135,7 @@ public class TreeTest {
      * 树的后序遍历 非递归法
      * @param head
      */
-    public void postOrder2(Node head) {
+    public static void postOrder2(Node head) {
         if (head != null) {
             ArrayDeque stack = new ArrayDeque<Node>();
             ArrayDeque help = new ArrayDeque<Node>();
@@ -163,12 +163,12 @@ public class TreeTest {
      * 树的层序遍历  非递归-队列辅助
      * @param head
      */
-    public void peerOrder(Node head) {
+    public static void peerOrder(Node head) {
         if (head != null) {
             Queue queue = new LinkedList<Node>();
             //压入头结点
             ((LinkedList) queue).push(head);
-            if (head != null) {
+            while (!queue.isEmpty()) {
                 head = (Node)((LinkedList) queue).pop();
                 System.out.println(head.obj + " ");
                 //先压左节点
@@ -188,7 +188,7 @@ public class TreeTest {
      * @param node
      * @return
      */
-    public ReturnData process(Node node){
+    public static ReturnData process(Node node){
         if (head == null) {
             return new ReturnData(true, 0);
         }
@@ -213,10 +213,10 @@ public class TreeTest {
      * 判断树是否为平衡二叉树程序入口
      * @return
      */
-    public boolean isB() {
+    public static boolean isB() {
         return process(head).isB;
     }
-    class ReturnData{
+    static class ReturnData{
         public boolean isB;//是否平衡
         public int h;//树高
 
@@ -225,13 +225,12 @@ public class TreeTest {
             this.h = h;
         }
     }
-
     /**
      * 判断树是否为完全二叉树   层序遍历
      * @param head
      * @return
      */
-    public boolean isCBT(Node head) {
+    public static boolean isCBT(Node head) {
         if (head == null) {
             return true;
         }
@@ -267,7 +266,7 @@ public class TreeTest {
      * @param h
      * @return
      */
-    public int bs(Node node, int level, int h) {
+    public static int bs(Node node, int level, int h) {
         if (level == h) {
             //到叶子了
             return 1;
@@ -285,7 +284,7 @@ public class TreeTest {
      * @param level
      * @return
      */
-    public int mostLeftLevel(Node head, int level) {
+    public static int mostLeftLevel(Node head, int level) {
         while (head != null) {
             level++;
             head = head.left;
@@ -298,13 +297,13 @@ public class TreeTest {
      * @param head
      * @return
      */
-    public int nodeNum(Node head) {
+    public static int nodeNum(Node head) {
         if (head == null) {
             return 0;
         }
         return bs(head,1, mostLeftLevel(head, 1));
     }
-    class Node{
+    static class Node{
         public Integer obj;
         public Node left;
         public Node right;
@@ -312,5 +311,50 @@ public class TreeTest {
         public Node(Integer obj) {
             this.obj = obj;
         }
+    }
+    static class MyNode{
+        public Node node;
+        public boolean isWorp;
+
+        public MyNode(Node node, boolean isWorp) {
+            this.node = node;
+            this.isWorp = isWorp;
+        }
+    }
+    /**
+     * 先序打印二叉树，并且父节点与孩子节点之间回车换行
+     * @param head
+     */
+    public static void print(Node head) {
+        if (head != null) {
+            Queue queue = new LinkedList();
+            ((LinkedList) queue).push(new MyNode(head, true));
+            while (!queue.isEmpty()) {
+                MyNode myNode = (MyNode) ((LinkedList) queue).pop();
+                head = myNode.node;
+                boolean isWorp = myNode.isWorp;
+                if (isWorp) {
+                    System.out.println(head.obj);
+                }else{
+                    System.out.print(head.obj);
+                }
+                if (head.left != null) {
+                    ((LinkedList) queue).push(new MyNode(head.left, false));
+                }
+                if (head.right != null) {
+                    ((LinkedList) queue).push(new MyNode(head.right, true));
+                }
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        insert(6);
+        insert(5);
+        insert(12);
+        insert(4);
+        insert(13);
+        insert(8);
+        print(head);
     }
 }

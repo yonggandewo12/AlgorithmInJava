@@ -38,29 +38,16 @@ public class TheMaxSubArraySum {
     }
 
     public static int findMaxTwoSubArraySum(int[] arr) {
-        if (arr == null || arr.length == 0) {
+        if(arr.length==0||arr==null){
             return 0;
         }
-        //准备两个东西即可
         int cur = 0;
         int maxSum = Integer.MIN_VALUE;
-        int[] help = new int[arr.length];
-        for (int i = arr.length-1; i >=0; i--) {
-            cur = cur < 0 ? 0 : cur;
-            cur += arr[i];
-            maxSum = maxSum > cur ? maxSum : cur;
-            help[i] = maxSum;
+        for(int i=0;i<arr.length;i++){
+            cur = cur<0?arr[i]:cur+arr[i];
+            maxSum = maxSum>cur?maxSum:cur;
         }
-        int res = Integer.MIN_VALUE;
-        maxSum = Integer.MIN_VALUE;
-        cur = 0;
-        for (int i = 0; i < arr.length-1; i++) {
-            cur = cur < 0 ? 0 : cur;
-            cur += arr[i];
-            maxSum = maxSum > cur ? maxSum : cur;
-            res = res > maxSum + help[i + 1] ? res : maxSum + help[i + 1];
-        }
-        return res;
+        return maxSum;
     }
     public static void main(String[] args) {
         int[] arr = {1, -2, 4, 8, -4, 7, -1, -5};

@@ -29,7 +29,7 @@ public class test16 {
             ymin = ymin < dots[i].y ? ymin : dots[i].y;
             ymax = ymax > dots[i].y ? ymax : dots[i].y;
         }
-        return (int)Math.max(Math.pow(ymax - ymin, 2), Math.pow(xmax - xmin, 2));
+        return (ymax - ymin)*(xmax - xmin);
 
     }
 
